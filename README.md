@@ -16,6 +16,7 @@
 
 - 🧑‍💻 I'm passionate about backend development, especially using Python frameworks like <b>Django</b> and <b>FastAPI</b>.
 - 🗃️ I have solid experience working with SQL databases such as <b>MySQL</b> and <b>PostgreSQL</b>.
+- 🖥️ I also have frontend skills and enjoy working with **HTML**, **CSS**, **TypeScript**, and **React**.
 - 🚀 Co-Founder at <a href="https://runa-code.com">Runa Code</a>.
 - 🎓 Currently studying at Universidad Tecnológica Nacional - Facultad Regional Resistencia.
 
