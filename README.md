@@ -1,6 +1,6 @@
 <!-- Profile image -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/EnzoCoschiza/your-profile-image.png" width="200" alt="Enzo Coschiza" />
+  <img src="https://avatars.githubusercontent.com/u/144269691?v=4" width="200" alt="Enzo Coschiza" />
 </p>
 
 <h1 align="center">Hi there, I'm Enzo Coschiza 👋</h1>
